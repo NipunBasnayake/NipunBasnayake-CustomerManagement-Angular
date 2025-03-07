@@ -1,3 +1,7 @@
+/* @import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
 .navbar {
     background-color: #1d3557;
     text-align: center;
@@ -15,4 +19,4 @@
     font-size: 22px;
     color: #ffffff;
     font-weight: bold;
-}
+} */
